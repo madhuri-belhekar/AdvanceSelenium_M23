@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-31T07:33:38 IST" name="Default suite" finished-at="2024-12-31T07:35:01 IST" duration-ms="83172">
+    <groups>
+    </groups>
+    <test started-at="2024-12-31T07:33:38 IST" name="Default test" finished-at="2024-12-31T07:35:01 IST" duration-ms="83172">
+      <class name="Campaign.CreateCampaignsTest">
+        <test-method is-config="true" signature="Bs()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:33:38 IST" name="Bs" finished-at="2024-12-31T07:33:38 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bs -->
+        <test-method is-config="true" signature="Bt()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:33:38 IST" name="Bt" finished-at="2024-12-31T07:33:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bt -->
+        <test-method is-config="true" signature="Bc()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:33:38 IST" name="Bc" finished-at="2024-12-31T07:33:58 IST" duration-ms="20613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bc -->
+        <test-method is-config="true" signature="Bm()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:33:58 IST" name="Bm" finished-at="2024-12-31T07:34:42 IST" duration-ms="43990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bm -->
+        <test-method signature="execute()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:34:42 IST" name="execute" finished-at="2024-12-31T07:34:43 IST" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+        <test-method is-config="true" signature="Am()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:34:43 IST" name="Am" finished-at="2024-12-31T07:35:00 IST" duration-ms="17687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Am -->
+        <test-method is-config="true" signature="Ac()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:35:00 IST" name="Ac" finished-at="2024-12-31T07:35:01 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ac -->
+        <test-method is-config="true" signature="At()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:35:01 IST" name="At" finished-at="2024-12-31T07:35:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- At -->
+        <test-method is-config="true" signature="As()[pri:0, instance:Campaign.CreateCampaignsTest@5bf0d49]" started-at="2024-12-31T07:35:01 IST" name="As" finished-at="2024-12-31T07:35:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- As -->
+      </class> <!-- Campaign.CreateCampaignsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
