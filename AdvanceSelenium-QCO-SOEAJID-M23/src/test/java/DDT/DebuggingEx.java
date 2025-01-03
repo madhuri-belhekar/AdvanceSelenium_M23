@@ -3,7 +3,7 @@ package DDT;
 public class DebuggingEx {
 	
 public static void main(String[] args) {
-	
+	//this is pull comment
 	int a = 10;
 	int b = 20;
 	System.out.println(a);
